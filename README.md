@@ -1,16 +1,20 @@
-# Express eCommerce API
+# Next.js eCommerce App
 
-A basic Express API designed to manage products. This API provides CRUD operations for products and is intended to be used with a Next.js frontend.
+A boilerplate Next.js application with an integrated products API
 
 ## Getting Started
 
 1. **Create a Next.js App Using this repo as an example**
    ```bash
-   npx create-next-app@latest ecommerce-app --use-npm --example "https://github.com/dCC-Online/ecommerce-app-example"
+   npx create-next-app@latest ecommerce-app --use-npm --example "https://github.com/dCC-Online/nextjs-ecommerce-app-example"
    
 2. **After installation, open the project in your code editor and navigate to nextjs-todo-app.**
    ```bash
-   cd ecommerce-app-example
+   cd nextjs-ecommerce-app-example
+
+2. **Run the Next.js server & test with Postman**
+   ```bash
+   npm run dev
 
 ## A Postman collection is included. Import it into Postman & test each endpoint.
 

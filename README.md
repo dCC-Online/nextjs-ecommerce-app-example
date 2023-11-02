@@ -10,7 +10,7 @@ A boilerplate Next.js application with an integrated products API
    
 2. **After installation, open the project in your code editor and navigate to nextjs-ecommerce-app-example.**
    ```bash
-   cd nextjs-ecommerce-app-example
+   cd ecommerce-app
 
 2. **Run the Next.js server & test with Postman**
    ```bash

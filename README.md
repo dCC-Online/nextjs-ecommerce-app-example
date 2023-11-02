@@ -8,7 +8,7 @@ A boilerplate Next.js application with an integrated products API
    ```bash
    npx create-next-app@latest ecommerce-app --use-npm --example "https://github.com/dCC-Online/nextjs-ecommerce-app-example"
    
-2. **After installation, open the project in your code editor and navigate to nextjs-todo-app.**
+2. **After installation, open the project in your code editor and navigate to nextjs-ecommerce-app-example.**
    ```bash
    cd nextjs-ecommerce-app-example
 
@@ -49,7 +49,6 @@ A boilerplate Next.js application with an integrated products API
 
 ## Making Requests from Next.js Frontend
 
-- Ensure the server is running using npm start before making requests from your Next.js frontend.
 - **Example POST Request:**
 ```javascript
 const productData = {

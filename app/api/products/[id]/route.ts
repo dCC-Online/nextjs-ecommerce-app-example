@@ -15,7 +15,7 @@ export async function GET(
   );
 
   if (!item) {
-    return new NextResponse(JSON.stringify({ error: "Item not found" }), {
+    return new NextResponse(JSON.stringify({ error: "Product not found" }), {
       status: 404,
       headers: {
         "Content-Type": "application/json",
